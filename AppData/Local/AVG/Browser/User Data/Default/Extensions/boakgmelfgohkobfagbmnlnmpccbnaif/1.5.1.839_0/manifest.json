@@ -1,0 +1,38 @@
+{
+   "author": "AVG Technologies",
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon16.png",
+         "19": "img/icon19.png",
+         "24": "img/icon24.png",
+         "32": "img/icon32.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "VPN"
+   },
+   "default_locale": "en",
+   "description": "__MSG_product_description__",
+   "homepage_url": "http://www.avg.com",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16-active.png",
+      "19": "img/icon19-active.png",
+      "24": "img/icon24-active.png",
+      "256": "img/icon256.png",
+      "32": "img/icon32-active.png",
+      "38": "img/icon38-active.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAumLolh5RDaoN/dgmnA1aD676f463zFsSCVVj9mgDvsUtPeH/nWHUPecZGktRoIzixyY5dO1Yqo9iwizo/YZGW4MuAioMhWzeF2Fxa1EyMBa0xU4xf1+EVGeAbKrMjLb1reJ5elCMj92imk7W+ZSIZ4vpgc5h8+GUf4juFYx52v4lDevl1DUwijcxC1F1XuKRlaM5mc8V27kcQJBhQD469qPe1Jth/aYJP4+BaJHGFZIMWEal3ZAUMtElhIykjsjptQekyWlqUYgV77zwkaYcA+MnrtRhDcUELz3880idIGgz2ZRvOZDNBIcU0ch6LgoYnWPGniJcxJjG/iXcwQTcuwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_product_name__",
+   "optional_permissions": [ "privacy" ],
+   "permissions": [ "storage", "nativeMessaging", "tabs" ],
+   "short_name": "SecureVpn",
+   "version": "1.5.1.839"
+}

@@ -1,0 +1,1 @@
+!function(){"use strict";var e=null;try{var o=self.RTCPeerConnection||self.webkitRTCPeerConnection;o&&(e=new o(null))}catch(e){console.error(e)}null!==e&&e.close(),window.top.postMessage(null!==e?"webRTCSupported":"webRTCNotSupported",window.location.origin)}();

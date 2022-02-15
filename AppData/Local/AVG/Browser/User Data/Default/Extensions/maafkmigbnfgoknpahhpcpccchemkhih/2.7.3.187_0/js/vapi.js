@@ -1,0 +1,1 @@
+"use strict";self.browser instanceof Object?self.chrome=self.browser:self.browser=self.chrome;var vAPI=self.vAPI;!(document instanceof HTMLDocument||document instanceof XMLDocument&&document.createElement("div")instanceof HTMLDivElement)||!1!==/^image\/|^text\/plain/.test(document.contentType||"")||self.vAPI instanceof Object!=0&&!0===vAPI.uBO||(vAPI=self.vAPI={uBO:!0});

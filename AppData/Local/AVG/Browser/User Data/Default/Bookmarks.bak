@@ -1,0 +1,200 @@
+{
+   "checksum": "06a94c467f691af73ebb33e87e2bc19f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12983829506775875",
+            "guid": "cc86de27-7c34-49ec-8fa3-dfccb88473f7",
+            "id": "10",
+            "name": "Sitios sugeridos",
+            "type": "url",
+            "url": "https://ieonline.microsoft.com/#ieslice"
+         }, {
+            "date_added": "13091588074770181",
+            "guid": "83474548-592d-498b-a773-4fdbf4ccd9f5",
+            "id": "11",
+            "name": "Mail - elian arizala - Outlook",
+            "type": "url",
+            "url": "https://outlook.live.com/owa/#path=/mail"
+         }, {
+            "date_added": "13091653017588618",
+            "guid": "556a7618-d4e1-4a00-9356-0d8c7ef117e1",
+            "id": "12",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=es-419"
+         }, {
+            "date_added": "13091663843595238",
+            "guid": "b8a7b84b-2b48-4253-b4bb-c6339d7a03b1",
+            "id": "13",
+            "name": "Facebook - Inicia sesión o regístrate",
+            "type": "url",
+            "url": "https://es-la.facebook.com/"
+         }, {
+            "date_added": "13091667686621303",
+            "guid": "a705bb51-08d4-4b62-93b7-556c44070eb0",
+            "id": "14",
+            "name": "Mail - elian arizala - Outlook",
+            "type": "url",
+            "url": "https://outlook.live.com/owa/#path=/mail/inbox"
+         }, {
+            "date_added": "13142381103908053",
+            "guid": "d596a186-fa86-4d78-a1e0-d39dc5aa1c23",
+            "id": "15",
+            "name": "¡¡ LOS PEORES ERRORES DE CLASH ROYALE !! | De Aprendiz a Maestro#8 - Clash Royale [WithZack] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=R_NzDDvAgZo"
+         }, {
+            "date_added": "13144094848146418",
+            "guid": "0695b13b-a3b1-4caf-bcea-4078ff9269df",
+            "id": "16",
+            "name": "Amazon.com: teclado gaming",
+            "type": "url",
+            "url": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=teclado+gaming&rh=i%3Aaps%2Ck%3Ateclado+gaming"
+         }, {
+            "date_added": "13145254222438732",
+            "guid": "143ba513-2ff1-4ecc-883e-611fbb15dc96",
+            "id": "17",
+            "name": "¡¡ESPECIAL 1000 SUBS!!! | ¡SET UP DE MI HABITACION! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=i1KXCkEjMto"
+         }, {
+            "date_added": "13208303397043211",
+            "guid": "c624ad0e-c9fc-4aa2-96db-f2011dfec547",
+            "id": "18",
+            "name": "Online Photo Editor - Free - Pixlr Express",
+            "type": "url",
+            "url": "https://pixlr.com/express/"
+         }, {
+            "date_added": "13232178992979137",
+            "guid": "21263776-aee7-4db8-8045-98c9645940b5",
+            "id": "19",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com.ec/"
+         }, {
+            "date_added": "13235384318327927",
+            "guid": "cce23e10-a597-4b76-98dd-d0016aa17fb0",
+            "id": "20",
+            "name": "my best 2d intro intro ever (new shake setting!!!!!)|samhomfx - Panzoid",
+            "type": "url",
+            "url": "https://panzoid.com/creations/285284"
+         }, {
+            "date_added": "13236660309093203",
+            "guid": "272d1a0d-fa43-4801-bb18-2deb6a47028a",
+            "id": "21",
+            "name": "musicvid.org - Visualizador en línea gratuito",
+            "type": "url",
+            "url": "https://musicvid.org/editor?project=fe7acdd6-bbcc-467f-a4a1-52b19b970384"
+         }, {
+            "date_added": "13239734539463209",
+            "guid": "1c25dfde-d5b8-49f2-aaba-d8bef0147771",
+            "id": "22",
+            "name": "Amazon",
+            "type": "url",
+            "url": "https://sellercentral.amazon.com/sw/GREX/SignUp/step/Agreements?passthrough%2Faccount=fba_soa&passthrough%2FmarketplaceID=ATVPDKIKX0DER&passthrough%2FsuperSource=OAR&ref_=sdus_soa_hp_rp_h&passthrough%2Fld=SCSOAlogin_SDRP_HP_H_CONTRAST_C&productTier=FBA%3ASILVER&productType=FulfillmentByAmazon%3ASellOnAmazon&marketplaceId=ATVPDKIKX0DER&redirectAP=1&"
+         }, {
+            "date_added": "13245796747625349",
+            "guid": "fe7436c5-1af7-42a0-8295-7fe83ddc12bf",
+            "id": "23",
+            "name": "fondo de los simpson - Búsqueda de Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=fondo+de+los+simpson&sxsrf=ALeKk02Iz63mZUk2e3jr1ieEaHODYtZz1Q:1601323023510&tbm=isch&source=iu&ictx=1&fir=PhQjBLYo0vx4xM%252CTtKznANCwUk-RM%252C_&vet=1&usg=AI4_-kT25vSsRjWcKTr7Jj58pyj_0r4JDg&sa=X&ved=2ahUKEwi8-fGP0YzsAhUJm1kKHeNfDs4Q9QF6BAgKEFw&biw=1366&bih=625#imgrc=PhQjBLYo0vx4xM"
+         }, {
+            "date_added": "13258186310634247",
+            "guid": "15f02239-f2f1-4ebc-b361-6e118693228e",
+            "id": "24",
+            "name": "Myke Towers - Diosa (Video Oficial) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2_f5Os7mKqM"
+         }, {
+            "date_added": "13281170759103663",
+            "guid": "3a594c9c-d1e4-431b-911f-55580f17ae59",
+            "id": "25",
+            "name": "Ariana Grande - The Way ft. Mac Miller - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=_sV0S8qWSy0"
+         }, {
+            "date_added": "13283268926659447",
+            "guid": "82ebe3e6-dc88-44bb-a80d-655988a2077b",
+            "id": "26",
+            "name": "🔴 ECDF UIO - IDV saca ventaja en la primera final - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=_fOYjxKcVnE"
+         }, {
+            "date_added": "13283820146289283",
+            "guid": "b1bc3a86-3d37-460a-8503-c161802fb18a",
+            "id": "27",
+            "name": "Tecnologías de la Información II",
+            "type": "url",
+            "url": "https://github.com/T-I-II"
+         } ],
+         "date_added": "13288211851920642",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13288211851920648",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13288211852441401",
+            "date_modified": "0",
+            "guid": "f7487e91-cea1-49a6-9428-f91a0f2d448e",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13288211852441449",
+            "date_modified": "0",
+            "guid": "47f4931b-2f67-4681-aa7c-e41d5bfc54e9",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13288211852441455",
+            "date_modified": "0",
+            "guid": "e6c97773-27a6-46e2-9e4b-32f52e67d44c",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13288211852441459",
+            "date_modified": "13288211852441459",
+            "guid": "7ee38e39-ec78-4e82-ae0c-e8e046dba5e8",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13288211851920666",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Patrocinado",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13288211851920649",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

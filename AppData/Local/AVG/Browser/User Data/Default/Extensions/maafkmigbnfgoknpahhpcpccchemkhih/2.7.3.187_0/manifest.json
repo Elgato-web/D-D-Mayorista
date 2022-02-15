@@ -1,0 +1,53 @@
+{
+   "author": "Safer Technologies LLC & uBlock Origin contributors",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/browsericons/icon_16.png",
+         "32": "img/browsericons/icon_32.png"
+      },
+      "default_popup": "extra/app.html",
+      "default_title": "AVG Adblock"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/vapi.js", "/js/vapi-client.js", "/js/contentscript.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "/js/scriptlets/subscriber.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "default-src 'self'; font-src *; script-src 'self' 'unsafe-eval'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:; object-src 'self'",
+   "dataKeys": [ "AdBlockData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "32": "img/icon_32.png",
+      "48": "img/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA23z3JE2h2xGcPLbI/nibE0hNqbmJDDs/PPyMA4trzj4MMBT8dZNxtT2WZREc6uyEQZ1Qw2vBcDeEiqFYONBS0yjyzphWwqxBpTtOclirDSaYZIY9VLnhPWOvF3GXRfcape0xfP8Lc6vtAnWEZbGUdKPF7DWUSHZ5qJTqC7iDvnhhj4Ic/jvTRk9yRZe16E2e6lXAEy3pZlkYISjTxt1G1A8qLo7z6BBBVtLAPNJHO7Crwsk4x2r92+WI1oCMlGfMZAx51Px4GQOoIaSjLyAbGofmIY+1Osp95peAQwNmEACvuMUIEtDSP/SOGyrEpFrobbDFNELwp5nP3WbJkqDvwwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55.0",
+   "name": "AVG Adblock",
+   "options_page": "extra/options.html",
+   "permissions": [ "contextMenus", "privacy", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "cookies", "https://*/", "\u003Call_urls>" ],
+   "short_name": "AVG Adblock",
+   "storage": {
+      "managed_schema": "managed_storage.json"
+   },
+   "version": "2.7.3.187",
+   "web_accessible_resources": [ "/web_accessible_resources/*" ]
+}

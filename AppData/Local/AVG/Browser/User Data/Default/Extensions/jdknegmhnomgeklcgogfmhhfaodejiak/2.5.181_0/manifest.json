@@ -1,0 +1,35 @@
+{
+   "author": "AVG",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_popup": "views/popup.html",
+      "default_title": "AVG __MSG_appName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/fpattr.bundle.js", "js/content.bundle.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>", "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "dataKeys": [ "AFPData" ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxgOYl8dvURdN2mz973FAyEXthGNB75kRRH5EvikbD16jnI6SPKmLVN0OTmpoNyhGvvuu0inV667osdp6g9Z55diVHZi3FMR5WqlVWvW2XCgCRTo7Vhb7Xzt0ESRR3RFc0zGe+v0aX0O8GJbHOcfTRMxpWP0TsqOKVyET7WN6oCGfDR5OkzRM2rgT94Mx8VWpSXllvys5wVf4zeNRXyP91srcBueE19YpC6yGNOk2nZU/1f1e+maweLKEL31vwIbL2rf1uBr5Q8iTO9W2wu9Gs7JbL6IfRCJDrNJaYTb8xvj+jJaCOjIM2/9X0AiSpGMD+EiMCfCM5bed5b9WxDq4EwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "73",
+   "name": "AVG __MSG_appName__",
+   "options_page": "views/options.html",
+   "permissions": [ "fontSettings", "storage", "tabs", "notifications", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "version": "2.5.181",
+   "web_accessible_resources": [ "img/*", "js/content.bundle.js", "content.bundle.js", "content.js", "fingerprint.attributes.js" ]
+}

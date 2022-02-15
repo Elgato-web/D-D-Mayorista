@@ -1,0 +1,1 @@
+!function(){"use strict";const n=window,i=function(){}.bind(),t={fetchBids:function(n,i){i instanceof Function&&i([])},init:i,setDisplayBids:i,targetingKeys:i};n.apstag=t}();

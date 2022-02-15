@@ -1,0 +1,1 @@
+!function(){"use strict";const o=function(){};window.pbjs={libLoaded:!0};const t=window.MonkeyBroker||{addAttribute:o,addSlot:function(o){this.slots[o.slot]={}},defineSlot:o,fillSlot:o,go:o,inventoryConditionalPlacement:o,registerSizeCallback:o,registerSlotCallback:o,slots:{},version:""};t.regSlotsMap=t.slots,window.MonkeyBroker=t}();

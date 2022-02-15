@@ -1,0 +1,1 @@
+"use strict";"object"==typeof vAPI&&vAPI.loadAllLargeMedia instanceof Function!=0&&(vAPI.loadAllLargeMedia(),vAPI.loadAllLargeMedia=void 0);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="8" 
+	height="8" 
+	viewBox="0 0 8 8"
+> 
+	<path 
+		fill="#A8A8A8" 
+		fill-rule="nonzero" 
+		d="M4.92 4l3-3L7 .08l-3 3-3-3L.08 1l3 3-3 3 .92.92 3-3 3 3L7.92 7z"
+	/>
+</svg>

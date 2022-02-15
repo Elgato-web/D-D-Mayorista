@@ -1,0 +1,1 @@
+"use strict";self.log=function(){const o=function(){},n=function(o){console.log(`[uBO] ${o}`)};return{get verbosity(){},set verbosity(t){this.info=console.info="info"===t?n:o},info:o,print:n}}();

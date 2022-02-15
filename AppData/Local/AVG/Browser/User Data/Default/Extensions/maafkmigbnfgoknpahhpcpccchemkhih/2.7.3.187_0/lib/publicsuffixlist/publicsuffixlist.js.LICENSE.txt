@@ -1,0 +1,1 @@
+/*! Home: https://github.com/gorhill/publicsuffixlist.js -- GPLv3 APLv2 */
